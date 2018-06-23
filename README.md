@@ -1,4 +1,4 @@
-# ljsnatcher
+# LJsnatcher
 Парсер блогов на платформе LiveJournal.com
 
 Файл getlinks.php создает файл links.txt со ссылками на все посты из указанного блога.
